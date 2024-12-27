@@ -1,8 +1,6 @@
 # React Essential Training
 This is the repository for the LinkedIn Learning course `React Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
-
 ## Course Description
 
 In this course, software developer and instructor Eve Porcello highlights the latest techniques for building a React app from scratch. Learn how to create elements, write components, and use React hooks. Get familiar with libraries like Next and Vite, and discover the differences between React Server Components and Client Components. Find out how to use the latest tools, techniques, and patterns that will help futureproof applications and make them more scalable and performant. After watching the course, you will be able to start your own project from scratch, and you will also be able to jump into an existing React codebase and make an impact.
